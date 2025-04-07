@@ -12,3 +12,4 @@ C:\Users\jacob.bergman\prog 2\Projekt 2\Projekt 2\obj\Debug\net8.0\refint\Projek
 C:\Users\jacob.bergman\prog 2\Projekt 2\Projekt 2\obj\Debug\net8.0\Projekt 2.pdb
 C:\Users\jacob.bergman\prog 2\Projekt 2\Projekt 2\obj\Debug\net8.0\Projekt 2.genruntimeconfig.cache
 C:\Users\jacob.bergman\prog 2\Projekt 2\Projekt 2\obj\Debug\net8.0\ref\Projekt 2.dll
+C:\Users\jacob.bergman\prog 2\Projekt 2\Projekt 2\obj\Debug\net8.0\Projekt 2.sourcelink.json

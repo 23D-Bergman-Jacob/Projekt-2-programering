@@ -3,6 +3,8 @@ List<int> levandeX = new List<int>();
 // levandeX.Add(49, 50, 50, 50, 51);
 int[] levandeArrayY = levandeY.ToArray();
 int[] levandeArrayX = levandeX.ToArray();
+int y = 0;
+int x = 0;
 main();
 
 
@@ -34,25 +36,26 @@ void start()
 void dinKarta()
 {
     int grid = 99;
-    System.Console.Write("   ");
-    for (int y = 0; y < grid + 1; y++)
-    {
-        System.Console.Write(y);
-        if (y < 10)
-        {
-            System.Console.Write(" ");
-        }
-    }
+    // System.Console.Write("   ");
+    // for (int y = 0; y < grid + 1; y++)
+    // {
+    //     System.Console.Write(y);
+    //     if (y < 10)
+    //     {
+    //         System.Console.Write(" ");
+    //     }
+    // }
     System.Console.WriteLine();
     for (int i = 0; i < grid; i++)
     {
-        System.Console.Write(i + 1 + " ");
-        if (i + 1 < 10)
-        {
-            System.Console.Write(" ");
-        }
+        // System.Console.Write(i + 1 + " ");
+        // if (i + 1 < 10)
+        // {
+        //     System.Console.Write(" ");
+        // }
         for (int k = 0; k < grid; k++)
         {
+            bool levande = Överlevnad(i,k,levandeArrayY[], levandeArrayX[]);
             System.Console.Write("0 ");
         }
         System.Console.WriteLine();
@@ -60,7 +63,7 @@ void dinKarta()
 }
 
 
-static bool överlevnad(int y, int x, int[] levandeArrayY, int[] levandeArrayX)
+static bool Överlevnad(int y, int x, int[] levandeArrayY, int[] levandeArrayX)
 { 
     int grannar = 0;
     bool överlevnadBool = false;
