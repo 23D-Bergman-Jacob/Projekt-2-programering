@@ -1,0 +1,14 @@
+C:\Users\jacob.bergman\prog 2\Projekt 2\Projekt 2\bin\Debug\net8.0\Projekt 2.exe
+C:\Users\jacob.bergman\prog 2\Projekt 2\Projekt 2\bin\Debug\net8.0\Projekt 2.deps.json
+C:\Users\jacob.bergman\prog 2\Projekt 2\Projekt 2\bin\Debug\net8.0\Projekt 2.runtimeconfig.json
+C:\Users\jacob.bergman\prog 2\Projekt 2\Projekt 2\bin\Debug\net8.0\Projekt 2.dll
+C:\Users\jacob.bergman\prog 2\Projekt 2\Projekt 2\bin\Debug\net8.0\Projekt 2.pdb
+C:\Users\jacob.bergman\prog 2\Projekt 2\Projekt 2\obj\Debug\net8.0\Projekt 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob.bergman\prog 2\Projekt 2\Projekt 2\obj\Debug\net8.0\Projekt 2.AssemblyInfoInputs.cache
+C:\Users\jacob.bergman\prog 2\Projekt 2\Projekt 2\obj\Debug\net8.0\Projekt 2.AssemblyInfo.cs
+C:\Users\jacob.bergman\prog 2\Projekt 2\Projekt 2\obj\Debug\net8.0\Projekt 2.csproj.CoreCompileInputs.cache
+C:\Users\jacob.bergman\prog 2\Projekt 2\Projekt 2\obj\Debug\net8.0\Projekt 2.dll
+C:\Users\jacob.bergman\prog 2\Projekt 2\Projekt 2\obj\Debug\net8.0\refint\Projekt 2.dll
+C:\Users\jacob.bergman\prog 2\Projekt 2\Projekt 2\obj\Debug\net8.0\Projekt 2.pdb
+C:\Users\jacob.bergman\prog 2\Projekt 2\Projekt 2\obj\Debug\net8.0\Projekt 2.genruntimeconfig.cache
+C:\Users\jacob.bergman\prog 2\Projekt 2\Projekt 2\obj\Debug\net8.0\ref\Projekt 2.dll
